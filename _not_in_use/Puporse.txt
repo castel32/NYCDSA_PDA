@@ -1,0 +1,22 @@
+Puporse:
+
+- Get an overview of the main metrics of the business:
+Volume of work, Ratings
+- Get to know better some of the business dimension that have the most impact:
+Suppliers, Time of the Day, Type of Vehicle, Bookin time in advance.
+- Learn from the insights uncovered and apply them to the business.
+
+Tools:
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- Geoapify
+- Folium
+- Github
+- Notepad++
+- MS Excel
+- MS Powe Point
+
+
+Future:
